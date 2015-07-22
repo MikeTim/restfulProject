@@ -14,7 +14,7 @@ def main():
 	long = data2['longitude']
 	location = lat + " " + long
 	#return json.loads(data)
-	return location
+	returnlocation
 	
 if __name__ == '__main__':
 	MainRestful.run()
