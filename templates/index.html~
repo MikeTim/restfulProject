@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+	<!-- Main Part of File (will Display final location in location variable-->
+	<head> <link rel="stylesheet" type="text/css" href="static/style.css"></head>
+
+	<body>
+		<h1> Where is the ISS over right now? </h1>
+
+		<br>
+
+		<h2> The ISS (International Space Station) is in : {{location}} </h2>
+		<br>
+		<p>Created using "Where The ISS At" API </p>
+	</body>
+
+
+
+
+</html>
+
+

@@ -1,0 +1,24 @@
+body {
+color: #FEF7F7;
+   background-image: url("stars.jpg");
+
+
+ background-color:#7D0F62;
+	margin-left: 50px;
+	margin-right: 50px;
+    border-style: inset;
+    border-width: 10px;
+ border-color: #6600FF #CC33FF;
+}
+h1 {
+background-color: #D7CEB2;
+}
+.center {
+    margin: auto;
+    width: 60%;
+    border:30px solid ;
+    padding: 20px;
+}
+p { background-color: #4C5760;
+}
+
